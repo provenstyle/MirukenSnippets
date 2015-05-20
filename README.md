@@ -1,1 +1,2 @@
-# MirukenSnippets2
+# MirukenSnippets
+Snippets for Miruken
